@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* Correcting class name syntax */
+.sm-gap-6 {
+  gap: 24px;
 }
+
+.md-gap-8 {
+  gap: 32px;
+}
+
+.sm-w-45 {
+  width: 45%;
+}
+
+.md-w-30 {
+  width: 30%;
+}
+
+.lg-w-30 {
+  width: 30%;
+}
+
